@@ -156,6 +156,5 @@ $(function ($) {
 
 	var driveLink = fetchDriveLink();
 
-	fetchAndRender(driveLink);
-	// fetchAndRenderAndReload(driveLink);
+	fetchAndRenderAndReload(driveLink);
 });
