@@ -149,7 +149,6 @@ function renderDoc ($header, $content) {
 
 	setHeader(options.heading);
 	setContent($viewableContent.html());
-	debugger;
 }
 
 $(function ($) {
