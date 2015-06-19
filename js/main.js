@@ -37,7 +37,7 @@ function fetchAndRenderAndReload (driveLink) {
 	fetchAndRender(driveLink, function () {
 		setTimeout(function () {
 			fetchAndRenderAndReload(driveLink);
-		}, 3000);
+		}, 30000);
 	});
 }
 
