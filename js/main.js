@@ -27,7 +27,7 @@ function fetchDriveLink (url) {
 	}
 
 	if (driveLink.match("/pub") === null) {
-		driveLink = driveLink.replace(/\/edit^/, "") + "/pub";
+		driveLink = driveLink.replace(/\/edit$/, "") + "/pub";
 	}
 
 	return driveLink;
