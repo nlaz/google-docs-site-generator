@@ -1,4 +1,4 @@
-# live-site
+# live-site (Deprecated)
 Live Site creates a live site from a Google Doc. Ideal for hackathons.
 
 [[Demo](http://mlh.github.io/live-site/#https://docs.google.com/document/d/1-EvnzIhV0UFe8T0Vpfl8nhQR9e7JJMD4Bbdn7yKt0_c/pub)]
